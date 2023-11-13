@@ -1,0 +1,15 @@
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.csproj.AssemblyReference.cache
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.AssemblyInfoInputs.cache
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.AssemblyInfo.cs
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\bin\Debug\net6.0\HospedagemHotel.exe
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\bin\Debug\net6.0\HospedagemHotel.deps.json
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\bin\Debug\net6.0\HospedagemHotel.runtimeconfig.json
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\bin\Debug\net6.0\HospedagemHotel.dll
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\bin\Debug\net6.0\HospedagemHotel.pdb
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.dll
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\refint\HospedagemHotel.dll
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.pdb
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\HospedagemHotel.genruntimeconfig.cache
+C:\Projetos\c#-dio-projects\HospedagemHotel\HospedagemHotel\obj\Debug\net6.0\ref\HospedagemHotel.dll
